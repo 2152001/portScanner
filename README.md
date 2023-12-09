@@ -1,4 +1,4 @@
-run 
+How to run the project
 
 1. Clone the repository:
    ```bash
